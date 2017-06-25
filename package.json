@@ -1,0 +1,12 @@
+{
+  "name": "html_markdown_mixer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FredJiang/html_markdown_mixer.git",
+  "author": "FredJiang <270130108@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.2.1",
+    "marked": "0.3.6"
+  }
+}
